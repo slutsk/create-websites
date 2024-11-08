@@ -14,9 +14,9 @@
    text-shadow: 0px 0px 20px rgb(0, 0, 0);
 }
 .flower{
-    border-width:4px;
-    border-color:gray;
-    border-style:dashed;
+    border-width:2px;
+    border-color:rgb(0, 0, 0);
+    border-style:solid;
     width:300px;
     height: 400px;
     float:left;
